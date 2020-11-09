@@ -3618,6 +3618,8 @@ __metadata:
     react-router-dom: ^5.2.0
     react-scripts: 3.4.3
     redux: ^4.0.5
+    redux-devtools-extension: ^2.13.8
+    redux-thunk: ^2.3.0
   languageName: unknown
   linkType: soft
 
@@ -11755,6 +11757,22 @@ fsevents@^1.2.7:
     indent-string: ^4.0.0
     strip-indent: ^3.0.0
   checksum: 78c8aa0a1076f47e0e198bfc8a9aa7d4ae3163c6951bd5de1015e47661bba62ea36573337bbeb4b309b48cc71954edbe43ae4aa3163db1996a781b757c5c47d7
+  languageName: node
+  linkType: hard
+
+"redux-devtools-extension@npm:^2.13.8":
+  version: 2.13.8
+  resolution: "redux-devtools-extension@npm:2.13.8"
+  peerDependencies:
+    redux: ^3.1.0 || ^4.0.0
+  checksum: 4375a0698238f658ca93e35209e488e2c493e1cbb449c52bbd4a6a0d118547bc38e0a0af594801cb3abe7d460508792f095614b54006bb7373e14515cd110a4f
+  languageName: node
+  linkType: hard
+
+"redux-thunk@npm:^2.3.0":
+  version: 2.3.0
+  resolution: "redux-thunk@npm:2.3.0"
+  checksum: 2d7210b88cef244384ab15bfe0c0f79a7d5a2fe059825da121121ec75378b175860695fafd5265386a0fd4b86212cc49e5972825f7bc9f803ad8753229f0258b
   languageName: node
   linkType: hard
 
